@@ -28,7 +28,7 @@ The code for sorting of the words obtained from the previous code should be writ
 | `java SortWordSort` |
 
 ## Size of Datasets
-The size of datasets can be calculated using `DatasetSize.java`, helping evaluate throughput and plot graphs as shown in `Report.pdf`.
+The size of datasets can be calculated using `DatasetSize.java`, helping evaluate throughput and plot graphs.
 
 | Commands |
 |----------|
